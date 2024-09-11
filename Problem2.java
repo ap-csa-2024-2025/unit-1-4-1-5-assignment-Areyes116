@@ -2,16 +2,12 @@ public class Problem2
 {
     public static void main(String[] arg)
     {
-      int value = 879;
-
-      System.out.println("Hello are the digits: ");
-
-      System.out.println(value /= 90);
-
-      System.out.println((value -= 1));
-
-      System.out.println((value %= 150));
-
+      int value = 867;
+      System.out.println(val % 10);
+      val /= 10;
+      System.out.println(val % 10);
+      val /= 10;
+      System.out.println(val % 10);
     }
 }
 
