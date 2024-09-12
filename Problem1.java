@@ -5,14 +5,14 @@ public class Problem1
      int val = 24;
      System.out.println("Initial value: " = val);
 
-    System.out.println("Initial value: " = (val -= 1));
-    System.out.println("Initial value: " = (val -= 1));
-    System.out.println("Initial value: " = (val -= 1));
-    System.out.println("Initial value: " = (val -= 1));
-    System.out.println("Initial value: " = (val -= 1));
-    System.out.println("Initial value: " = (val -= 1));
-    System.out.println("Initial value: " = (val -= 1));
-    System.out.println("Initial value: " = (val -= 1));
+    System.out.println("Number is now: " = (val -= 1));
+    System.out.println("Number is now: " = (val -= 1));
+    System.out.println("Number is now: " = (val -= 1));
+    System.out.println("Number is now: " = (val -= 1));
+    System.out.println("Number is now: " = (val -= 1));
+    System.out.println("Number is now: " = (val -= 1));
+    System.out.println("Number is now: " = (val -= 1));
+    System.out.println("Number is now: " = (val -= 1));
     
     }
 }
